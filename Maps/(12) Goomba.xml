@@ -1,0 +1,261 @@
+<?xml version="1.0"?>
+<root>
+	<map players="12" width="16" height="16">
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="10,8" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="10,9" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="5,13" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="5,8" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="12,7" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="5,9" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="5,6" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="12,9" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="7,8" />
+		<tile type="Teleporter" teleport="12,13" />
+		<tile type="Teleporter" teleport="11,9" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="12,6" />
+		<tile type="Teleporter" teleport="7,9" />
+		<tile type="Teleporter" teleport="12,8" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="5,7" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="6,9" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+	</map>
+</root>

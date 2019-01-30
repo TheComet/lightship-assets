@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<element>
+	<attribute name="Name" value="MainServer" />
+	<attribute name="Size" value="900 700" />
+	<attribute name="Min Anchor" value="0.5 0.5" />
+	<attribute name="Max Anchor" value="0.5 0.5" />
+	<attribute name="Pivot" value="0.5 0.5" />
+	<attribute name="Layout Mode" value="Horizontal" />
+	<attribute name="Layout Spacing" value="20" />
+	<element>
+		<attribute name="Max Size" value="180 2147483647" />
+		<attribute name="Pivot" value="0 0" />
+		<attribute name="Layout Mode" value="Vertical" />
+		<attribute name="Layout Spacing" value="5" />
+		<element type="Text">
+			<attribute name="Pivot" value="0 0" />
+			<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Layout Mode" value="Horizontal" />
+			<attribute name="Text" value="Connected Players" />
+		</element>
+		<element>
+			<attribute name="Name" value="UserList" />
+			<attribute name="Pivot" value="0 0" />
+			<attribute name="Layout Mode" value="Vertical" />
+		</element>
+	</element>
+	<element>
+		<attribute name="Min Anchor" value="0 0.5" />
+		<attribute name="Max Anchor" value="0 0.5" />
+		<attribute name="Pivot" value="0 0.5" />
+		<attribute name="Layout Mode" value="Vertical" />
+		<attribute name="Layout Spacing" value="5" />
+		<element type="Text">
+			<attribute name="Pivot" value="0 0" />
+			<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+			<attribute name="Layout Mode" value="Horizontal" />
+			<attribute name="Text" value="Global Chat" />
+		</element>
+		<element>
+			<attribute name="Name" value="ChatMessages" />
+			<attribute name="Pivot" value="0 0" />
+			<attribute name="Layout Mode" value="Vertical" />
+		</element>
+	</element>
+	<element>
+		<attribute name="Max Size" value="300 2147483647" />
+		<attribute name="Pivot" value="0 0" />
+		<attribute name="Layout Mode" value="Vertical" />
+		<attribute name="Layout Spacing" value="20" />
+		<element>
+			<attribute name="Pivot" value="0 0" />
+			<attribute name="Layout Mode" value="Vertical" />
+			<attribute name="Layout Spacing" value="5" />
+			<element type="Text">
+				<attribute name="Pivot" value="0 0" />
+				<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Layout Mode" value="Horizontal" />
+				<attribute name="Text" value="Open Games" />
+			</element>
+			<element type="ListView">
+				<attribute name="Name" value="OpenGames" />
+				<attribute name="Pivot" value="0 0" />
+				<element type="ScrollBar" internal="true" style="none">
+					<attribute name="Size" value="300 16" />
+					<attribute name="Min Anchor" value="0 1" />
+					<attribute name="Max Anchor" value="0 1" />
+					<attribute name="Pivot" value="0 1" />
+					<attribute name="Color" value="0 0 0 0" />
+					<attribute name="Top Left Color" value="0 0 0 0" />
+					<attribute name="Top Right Color" value="0 0 0 0" />
+					<attribute name="Bottom Left Color" value="0 0 0 0" />
+					<attribute name="Bottom Right Color" value="0 0 0 0" />
+					<element type="Button" internal="true" style="none">
+						<attribute name="Size" value="16 16" />
+						<attribute name="Pivot" value="0 0" />
+						<attribute name="Border" value="4 4 4 4" />
+						<attribute name="Hover Image Offset" value="0 16" />
+						<attribute name="Pressed Image Offset" value="64 0" />
+						<attribute name="Pressed Child Offset" value="-1 1" />
+					</element>
+					<element type="Slider" internal="true" style="none">
+						<attribute name="Position" value="16 0" />
+						<attribute name="Size" value="268 16" />
+						<attribute name="Pivot" value="0 0" />
+						<attribute name="Image Rect" value="48 0 64 16" />
+						<attribute name="Border" value="4 4 4 4" />
+						<element type="BorderImage" internal="true" style="none">
+							<attribute name="Pivot" value="0 0" />
+							<attribute name="Image Rect" value="16 0 32 16" />
+							<attribute name="Border" value="4 4 4 4" />
+							<attribute name="Hover Image Offset" value="0 16" />
+						</element>
+					</element>
+					<element type="Button" internal="true" style="none">
+						<attribute name="Position" value="284 0" />
+						<attribute name="Size" value="16 16" />
+						<attribute name="Pivot" value="0 0" />
+						<attribute name="Border" value="4 4 4 4" />
+						<attribute name="Hover Image Offset" value="0 16" />
+						<attribute name="Pressed Image Offset" value="64 0" />
+						<attribute name="Pressed Child Offset" value="-1 1" />
+					</element>
+				</element>
+				<element type="ScrollBar" internal="true" style="none">
+					<attribute name="Size" value="16 290" />
+					<attribute name="Min Anchor" value="1 0" />
+					<attribute name="Max Anchor" value="1 0" />
+					<attribute name="Pivot" value="1 0" />
+					<attribute name="Color" value="0 0 0 0" />
+					<attribute name="Top Left Color" value="0 0 0 0" />
+					<attribute name="Top Right Color" value="0 0 0 0" />
+					<attribute name="Bottom Left Color" value="0 0 0 0" />
+					<attribute name="Bottom Right Color" value="0 0 0 0" />
+					<element type="Button" internal="true" style="none">
+						<attribute name="Size" value="16 16" />
+						<attribute name="Pivot" value="0 0" />
+						<attribute name="Border" value="4 4 4 4" />
+						<attribute name="Hover Image Offset" value="0 16" />
+						<attribute name="Pressed Image Offset" value="64 0" />
+						<attribute name="Pressed Child Offset" value="-1 1" />
+					</element>
+					<element type="Slider" internal="true" style="none">
+						<attribute name="Position" value="0 16" />
+						<attribute name="Size" value="16 258" />
+						<attribute name="Pivot" value="0 0" />
+						<attribute name="Image Rect" value="48 0 64 16" />
+						<attribute name="Border" value="4 4 4 4" />
+						<element type="BorderImage" internal="true" style="none">
+							<attribute name="Pivot" value="0 0" />
+							<attribute name="Image Rect" value="16 0 32 16" />
+							<attribute name="Border" value="4 4 4 4" />
+							<attribute name="Hover Image Offset" value="0 16" />
+						</element>
+					</element>
+					<element type="Button" internal="true" style="none">
+						<attribute name="Position" value="0 274" />
+						<attribute name="Size" value="16 16" />
+						<attribute name="Pivot" value="0 0" />
+						<attribute name="Border" value="4 4 4 4" />
+						<attribute name="Hover Image Offset" value="0 16" />
+						<attribute name="Pressed Image Offset" value="64 0" />
+						<attribute name="Pressed Child Offset" value="-1 1" />
+					</element>
+				</element>
+				<element type="BorderImage" internal="true" style="none">
+					<attribute name="Pivot" value="0 0" />
+					<attribute name="Clip Border" value="2 2 2 2" />
+					<attribute name="Image Rect" value="48 0 64 16" />
+					<attribute name="Border" value="4 4 4 4" />
+					<attribute name="Hover Image Offset" value="16 16" />
+					<element internal="true" style="none">
+						<attribute name="Pivot" value="0 0" />
+					</element>
+				</element>
+			</element>
+			<element>
+				<attribute name="Min Size" value="0 25" />
+				<attribute name="Max Size" value="2147483647 25" />
+				<attribute name="Pivot" value="0 0" />
+				<attribute name="Layout Mode" value="Horizontal" />
+				<attribute name="Layout Spacing" value="10" />
+				<element type="Button">
+					<attribute name="Name" value="BTN_MAINSERVER_CREATEGAME" />
+					<attribute name="Pivot" value="0 0" />
+					<attribute name="Image Rect" value="16 0 32 16" />
+					<attribute name="Border" value="4 4 4 4" />
+					<attribute name="Hover Image Offset" value="0 16" />
+					<attribute name="Pressed Image Offset" value="16 0" />
+					<attribute name="Pressed Child Offset" value="-1 1" />
+					<element type="Text">
+						<attribute name="Min Anchor" value="0.5 0.5" />
+						<attribute name="Max Anchor" value="0.5 0.5" />
+						<attribute name="Pivot" value="0.5 0.5" />
+						<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Layout Mode" value="Horizontal" />
+						<attribute name="Text" value="Create Game" />
+					</element>
+				</element>
+				<element type="Button">
+					<attribute name="Name" value="BTN_MAINSERVER_JOINGAME" />
+					<attribute name="Pivot" value="0 0" />
+					<attribute name="Image Rect" value="16 0 32 16" />
+					<attribute name="Border" value="4 4 4 4" />
+					<attribute name="Hover Image Offset" value="0 16" />
+					<attribute name="Pressed Image Offset" value="16 0" />
+					<attribute name="Pressed Child Offset" value="-1 1" />
+					<element type="Text">
+						<attribute name="Min Anchor" value="0.5 0.5" />
+						<attribute name="Max Anchor" value="0.5 0.5" />
+						<attribute name="Pivot" value="0.5 0.5" />
+						<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+						<attribute name="Layout Mode" value="Horizontal" />
+						<attribute name="Text" value="Join Game" />
+					</element>
+				</element>
+			</element>
+		</element>
+		<element>
+			<attribute name="Pivot" value="0 0" />
+			<attribute name="Layout Mode" value="Vertical" />
+			<attribute name="Layout Spacing" value="5" />
+			<element type="Text">
+				<attribute name="Pivot" value="0 0" />
+				<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+				<attribute name="Text" value="Server" />
+			</element>
+			<element type="Window">
+				<attribute name="Pivot" value="0 0" />
+				<attribute name="Image Rect" value="48 0 64 16" />
+				<attribute name="Border" value="4 4 4 4" />
+				<attribute name="Resize Border" value="8 8 8 8" />
+				<element type="Text">
+					<attribute name="Name" value="ServerInfo" />
+					<attribute name="Pivot" value="0 0" />
+					<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+				</element>
+			</element>
+			<element type="Button">
+				<attribute name="Name" value="BTN_MAINSERVER_DISCONNECT" />
+				<attribute name="Min Size" value="0 25" />
+				<attribute name="Max Size" value="2147483647 25" />
+				<attribute name="Pivot" value="0 0" />
+				<attribute name="Image Rect" value="16 0 32 16" />
+				<attribute name="Border" value="4 4 4 4" />
+				<attribute name="Hover Image Offset" value="0 16" />
+				<attribute name="Pressed Image Offset" value="16 0" />
+				<attribute name="Pressed Child Offset" value="-1 1" />
+				<element type="Text">
+					<attribute name="Min Anchor" value="0.5 0.5" />
+					<attribute name="Max Anchor" value="0.5 0.5" />
+					<attribute name="Pivot" value="0.5 0.5" />
+					<attribute name="Top Left Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Top Right Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Bottom Left Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Bottom Right Color" value="0.85 0.85 0.85 1" />
+					<attribute name="Layout Mode" value="Horizontal" />
+					<attribute name="Text" value="Disconnect" />
+				</element>
+			</element>
+		</element>
+	</element>
+</element>

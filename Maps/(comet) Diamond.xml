@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<root>
+	<map players="4" width="8" height="8">
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="7,7" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="2,7" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="7,2" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Teleporter" teleport="2,2" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Spawn" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+	</map>
+</root>

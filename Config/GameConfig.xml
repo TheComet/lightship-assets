@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<root>
+    <player>
+        <rotate speed="250" tilt="20" />
+    </player>
+</root>

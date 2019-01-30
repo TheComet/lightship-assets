@@ -1,0 +1,849 @@
+<?xml version="1.0"?>
+<root>
+	<map players="4" width="30" height="28">
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Spawn,Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="24,27" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="26,27" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="29,24" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="2,7" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Spawn,Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="15,14" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="16,14" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="7,27" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="2,22" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="26,2" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="2,24" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="3,3" />
+		<tile type="Teleporter" teleport="28,3" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="3,26" />
+		<tile type="Teleporter" teleport="28,26" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="29,5" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="5,27" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="29,7" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="24,2" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="15,15" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Floor" />
+		<tile type="Floor" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="16,15" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Spawn,Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="29,22" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="2,5" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Empty" />
+		<tile type="Empty" />
+		<tile type="Wall" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Teleporter" teleport="5,2" />
+		<tile type="Wall" />
+		<tile type="Teleporter" teleport="7,2" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Deny Power Up" />
+		<tile type="Floor" meta="Spawn,Deny Power Up" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<tile type="Wall" />
+		<trigger x="23.5" y="5.5" radius="0.75" />
+		<trigger x="23.45" y="21.55" radius="0.7" />
+		<trigger x="5.45" y="21.55" radius="0.7" />
+		<trigger x="5.45" y="5.55" radius="0.7" />
+	</map>
+</root>
